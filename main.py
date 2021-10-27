@@ -12,8 +12,8 @@ import numpy
 client = discord.Client()
 
 reddit = praw.Reddit(
-    client_id="JgxUwdj44_fqmQ",
-    client_secret="sKuZhANzmzZanpnVo3Lz_d4vZkNdSg",
+    client_id="902889726950903868",
+    client_secret="_IZsW0edDK9XMNJF3EsjUxR2SMXmmXCZ",
     user_agent="my user agent"
 )
 
@@ -491,4 +491,4 @@ async def on_message(message):
         await spinner.delete()
 
 
-client.run('NzU0MDIwNDQ1NDc2NDg3MTc4.X1uqQw.JrTFjgz_P59XHQX14je6QhUeJD0')
+client.run('OTAyODg5NzI2OTUwOTAzODY4.YXk_lQ.0owFG1PT-tD-reIepSMEiDi04qc')
