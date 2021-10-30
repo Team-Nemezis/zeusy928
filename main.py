@@ -491,4 +491,4 @@ async def on_message(message):
         await spinner.delete()
 
 
-client.run('OTAyODg5NzI2OTUwOTAzODY4.YXk_lQ.0owFG1PT-tD-reIepSMEiDi04qc')
+client.run('OTAyODg5NzI2OTUwOTAzODY4.YXk_lQ.u5B5mRqghAqLemufe_gvE0rE1Ho')
